@@ -32,7 +32,7 @@
 #include "mruby/value.h"
 #include "mruby/variable.h"
 
-#include "sqlite3.h"
+#include <sqlite3.h>
 
 #include "mruby_SQLite_functions.h"
 #include "mruby_SQLite_classes.h"

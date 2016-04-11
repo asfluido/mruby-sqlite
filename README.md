@@ -1,3 +1,9 @@
+### NOTE!
+
+I adapted jbreeden's gem so as to have it compile cleanly on linux when using the shared library. I removed all non-essential files.
+
+Carlo
+
 mruby-sqlite
 ============
 
